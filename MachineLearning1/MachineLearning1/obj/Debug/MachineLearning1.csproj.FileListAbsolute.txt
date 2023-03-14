@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\bin\Debug\MachineLearning1.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\bin\Debug\MachineLearning1.exe
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\bin\Debug\MachineLearning1.pdb
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.exe
+C:\Users\Oguzhan\Desktop\Udemy\MachineLearning1\MachineLearning1\obj\Debug\MachineLearning1.pdb

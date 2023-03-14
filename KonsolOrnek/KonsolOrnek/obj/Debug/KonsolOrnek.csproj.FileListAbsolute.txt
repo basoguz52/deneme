@@ -1,0 +1,8 @@
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\bin\Debug\KonsolOrnek.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\bin\Debug\KonsolOrnek.exe
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\bin\Debug\KonsolOrnek.pdb
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\obj\Debug\KonsolOrnek.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\obj\Debug\KonsolOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\obj\Debug\KonsolOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\obj\Debug\KonsolOrnek.exe
+C:\Users\Oguzhan\Desktop\Udemy\KonsolOrnek\KonsolOrnek\obj\Debug\KonsolOrnek.pdb

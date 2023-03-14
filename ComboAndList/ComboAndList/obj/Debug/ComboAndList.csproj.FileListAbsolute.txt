@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\bin\Debug\ComboAndList.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\bin\Debug\ComboAndList.exe
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\bin\Debug\ComboAndList.pdb
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.exe
+C:\Users\Oguzhan\Desktop\Udemy\ComboAndList\ComboAndList\obj\Debug\ComboAndList.pdb

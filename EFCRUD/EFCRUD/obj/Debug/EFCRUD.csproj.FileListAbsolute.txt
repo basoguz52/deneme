@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\bin\Debug\EFCRUD.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\bin\Debug\EFCRUD.exe
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\bin\Debug\EFCRUD.pdb
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.exe
+C:\Users\Oguzhan\Desktop\Udemy\EFCRUD\EFCRUD\obj\Debug\EFCRUD.pdb

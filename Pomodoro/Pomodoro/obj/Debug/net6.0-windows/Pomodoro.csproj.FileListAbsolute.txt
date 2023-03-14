@@ -1,0 +1,17 @@
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.exe
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.deps.json
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.runtimeconfig.json
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.dll
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.pdb
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.AssemblyInfoInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.AssemblyInfo.cs
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.dll
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\refint\Pomodoro.dll
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.pdb
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.genruntimeconfig.cache
+C:\Users\Oguzhan\Desktop\Udemy\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\ref\Pomodoro.dll

@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\bin\Debug\CheckRadioRich.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\bin\Debug\CheckRadioRich.exe
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\bin\Debug\CheckRadioRich.pdb
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.exe
+C:\Users\Oguzhan\Desktop\Udemy\CheckRadioRich\CheckRadioRich\obj\Debug\CheckRadioRich.pdb

@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\bin\Debug\RandomKullanimi.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\bin\Debug\RandomKullanimi.exe
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\bin\Debug\RandomKullanimi.pdb
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.exe
+C:\Users\Oguzhan\Desktop\Udemy\RandomKullanimi\RandomKullanimi\obj\Debug\RandomKullanimi.pdb

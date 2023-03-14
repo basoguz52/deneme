@@ -1,0 +1,8 @@
+1Button
+2Label
+3Textbox
+4Combobox
+5Listbox
+6Maskedtextbox
+7Picturebox
+8Datetimepicker

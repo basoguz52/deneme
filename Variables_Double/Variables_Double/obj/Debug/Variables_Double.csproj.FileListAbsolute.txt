@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\bin\Debug\Variables_Double.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\bin\Debug\Variables_Double.exe
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\bin\Debug\Variables_Double.pdb
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.exe
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Double\Variables_Double\obj\Debug\Variables_Double.pdb

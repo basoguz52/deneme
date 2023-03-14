@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\bin\Debug\LabelAndTextbox.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\bin\Debug\LabelAndTextbox.exe
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\bin\Debug\LabelAndTextbox.pdb
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.exe
+C:\Users\Oguzhan\Desktop\Udemy\LabelAndTextbox\LabelAndTextbox\obj\Debug\LabelAndTextbox.pdb

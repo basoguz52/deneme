@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\bin\Debug\klavyeint.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\bin\Debug\klavyeint.exe
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\bin\Debug\klavyeint.pdb
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.exe
+C:\Users\Oguzhan\Desktop\Udemy\klavyeint\klavyeint\obj\Debug\klavyeint.pdb

@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\CalculatorInt.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\CalculatorInt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\CalculatorInt.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\CalculatorInt.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Oguzhan\Desktop\Udemy\Calculator\Calculator\obj\Debug\Calculator.pdb

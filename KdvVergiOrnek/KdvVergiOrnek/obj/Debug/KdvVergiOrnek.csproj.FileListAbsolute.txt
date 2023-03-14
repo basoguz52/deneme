@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\bin\Debug\KdvVergiOrnek.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\bin\Debug\KdvVergiOrnek.exe
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\bin\Debug\KdvVergiOrnek.pdb
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.exe
+C:\Users\Oguzhan\Desktop\Udemy\KdvVergiOrnek\KdvVergiOrnek\obj\Debug\KdvVergiOrnek.pdb

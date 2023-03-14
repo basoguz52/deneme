@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\bin\Debug\ToolsUsage.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\bin\Debug\ToolsUsage.exe
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\bin\Debug\ToolsUsage.pdb
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.exe
+C:\Users\Oguzhan\Desktop\Udemy\ToolsUsage\ToolsUsage\obj\Debug\ToolsUsage.pdb

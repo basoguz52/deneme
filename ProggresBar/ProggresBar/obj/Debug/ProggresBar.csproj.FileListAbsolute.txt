@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\bin\Debug\ProggresBar.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\bin\Debug\ProggresBar.exe
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\bin\Debug\ProggresBar.pdb
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.exe
+C:\Users\Oguzhan\Desktop\Udemy\ProggresBar\ProggresBar\obj\Debug\ProggresBar.pdb

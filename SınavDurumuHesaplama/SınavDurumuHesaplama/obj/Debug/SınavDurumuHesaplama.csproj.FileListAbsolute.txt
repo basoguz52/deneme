@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\bin\Debug\SınavDurumuHesaplama.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\bin\Debug\SınavDurumuHesaplama.exe
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\bin\Debug\SınavDurumuHesaplama.pdb
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.exe
+C:\Users\Oguzhan\Desktop\Udemy\SınavDurumuHesaplama\SınavDurumuHesaplama\obj\Debug\SınavDurumuHesaplama.pdb

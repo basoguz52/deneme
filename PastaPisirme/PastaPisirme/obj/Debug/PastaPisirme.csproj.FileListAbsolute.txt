@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\bin\Debug\PastaPisirme.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\bin\Debug\PastaPisirme.exe
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\bin\Debug\PastaPisirme.pdb
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.exe
+C:\Users\Oguzhan\Desktop\Udemy\PastaPisirme\PastaPisirme\obj\Debug\PastaPisirme.pdb

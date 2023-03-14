@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\bin\Debug\VariablesChar.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\bin\Debug\VariablesChar.exe
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\bin\Debug\VariablesChar.pdb
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.exe
+C:\Users\Oguzhan\Desktop\Udemy\VariablesChar\VariablesChar\obj\Debug\VariablesChar.pdb

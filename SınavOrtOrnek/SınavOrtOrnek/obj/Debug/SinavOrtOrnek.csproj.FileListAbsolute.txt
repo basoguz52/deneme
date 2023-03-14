@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\bin\Debug\SınavOrtOrnek.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\bin\Debug\SınavOrtOrnek.exe
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\bin\Debug\SınavOrtOrnek.pdb
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SinavOrtOrnek.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SinavOrtOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SınavOrtOrnek.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SınavOrtOrnek.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SinavOrtOrnek.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SinavOrtOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SınavOrtOrnek.exe
+C:\Users\Oguzhan\Desktop\Udemy\SınavOrtOrnek\SınavOrtOrnek\obj\Debug\SınavOrtOrnek.pdb

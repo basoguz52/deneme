@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuStrip", "ContextMenuStrip\ContextMenuStrip.csproj", "{46B875B7-E30C-44AA-80C8-264786E56708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B875B7-E30C-44AA-80C8-264786E56708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B875B7-E30C-44AA-80C8-264786E56708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B875B7-E30C-44AA-80C8-264786E56708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B875B7-E30C-44AA-80C8-264786E56708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3396BA-C53E-4DE3-8F9E-B25F3EB8D663}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\bin\Debug\SinemaBufe.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\bin\Debug\SinemaBufe.exe
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\bin\Debug\SinemaBufe.pdb
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.exe
+C:\Users\Oguzhan\Desktop\Udemy\SinemaBufe\SinemaBufe\obj\Debug\SinemaBufe.pdb

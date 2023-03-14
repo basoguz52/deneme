@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\bin\Debug\Variables_Integer.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\bin\Debug\Variables_Integer.exe
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\bin\Debug\Variables_Integer.pdb
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.exe
+C:\Users\Oguzhan\Desktop\Udemy\Variables_Integer\Variables_Integer\obj\Debug\Variables_Integer.pdb

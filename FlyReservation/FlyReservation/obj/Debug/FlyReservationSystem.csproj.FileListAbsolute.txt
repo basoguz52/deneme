@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\bin\Debug\FlyReservation.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\bin\Debug\FlyReservation.exe
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\bin\Debug\FlyReservation.pdb
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservationSystem.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservation.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservation.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservationSystem.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservation.exe
+C:\Users\Oguzhan\Desktop\Udemy\FlyReservation\FlyReservation\obj\Debug\FlyReservation.pdb

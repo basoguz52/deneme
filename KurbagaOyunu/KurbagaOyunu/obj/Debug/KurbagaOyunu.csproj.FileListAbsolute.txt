@@ -1,0 +1,11 @@
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\bin\Debug\KurbagaOyunu.exe.config
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\bin\Debug\KurbagaOyunu.exe
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\bin\Debug\KurbagaOyunu.pdb
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.Form1.resources
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.exe
+C:\Users\Oguzhan\Desktop\Udemy\KurbagaOyunu\KurbagaOyunu\obj\Debug\KurbagaOyunu.pdb
